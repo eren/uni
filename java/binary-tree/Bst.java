@@ -178,7 +178,7 @@ public class Bst<Key extends Comparable<Key>, Value> {
 	 *      
 	 * After the rotation, it will become
 	 * 
-	 *	    B
+	 *	B
 	 *     / \
 	 *    A   C
 	 *     \
@@ -223,7 +223,7 @@ public class Bst<Key extends Comparable<Key>, Value> {
 	 *  
 	 * It will become:
 	 * 
-	 *	    B
+	 *	B
 	 *     / \
 	 *    C   D
 	 *  	 / \
