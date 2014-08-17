@@ -10,6 +10,26 @@ small subset which I decided to make public.
 Project List
 ====
 
+Racket
+---
+### λ-Parser
+Parser for λ-calculus. It supports λ definition and application. It
+implements naive β-transform, which can simply be defined as function application.
+
+
+### Multi Parameter Interpreter
+Extended versions of arithmetic expression parser (AE-Parser) supporting ``with`` statements and functions. It is an environment based, multi parameter interpreter supporting high-order functions and closures. It accepts S-expressions.
+
+### Eight Queens Puzzle Solver
+Puzzle solver operating on lists representing the chess board. The functions
+are tested using the chess board data structure internally. Unfortunately,
+it does not have a GUI to represent the chess board.
+
+### Others
+- Guess elimination
+- Traffic light simulator
+- Random ball animator on the screen
+- Free fall simulation of a ball.
 
 Java
 ---
